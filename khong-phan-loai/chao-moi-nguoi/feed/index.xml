@@ -9,7 +9,7 @@
 	<title>
 	Các phản hồi luận về: Chào tất cả mọi người!	</title>
 	<atom:link href="http://localhost/myproject/wordpress/khong-phan-loai/chao-moi-nguoi/feed/" rel="self" type="application/rss+xml" />
-	<link>http://tranlyhai.github.io/helloword/khong-phan-loai/chao-moi-nguoi/</link>
+	<link>https://tranlyhai.github.io/helloword/khong-phan-loai/chao-moi-nguoi/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 18 May 2021 03:35:21 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Bởi: Hải Trần		</title>
-		<link>http://tranlyhai.github.io/helloword/khong-phan-loai/chao-moi-nguoi/#comment-2</link>
+		<link>https://tranlyhai.github.io/helloword/khong-phan-loai/chao-moi-nguoi/#comment-2</link>
 
 		<dc:creator><![CDATA[Hải Trần]]></dc:creator>
 		<pubDate>Tue, 18 May 2021 03:35:21 +0000</pubDate>
-		<guid isPermaLink="false">http://tranlyhai.github.io/helloword/?p=1#comment-2</guid>
+		<guid isPermaLink="false">https://tranlyhai.github.io/helloword/?p=1#comment-2</guid>
 
 					<description><![CDATA[Còn cái nịt :&gt;]]></description>
 			<content:encoded><![CDATA[<p>Còn cái nịt :></p>
@@ -34,11 +34,11 @@
 		<item>
 		<title>
 		Bởi: Một người bình luận WordPress		</title>
-		<link>http://tranlyhai.github.io/helloword/khong-phan-loai/chao-moi-nguoi/#comment-1</link>
+		<link>https://tranlyhai.github.io/helloword/khong-phan-loai/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
 		<pubDate>Thu, 13 May 2021 08:59:26 +0000</pubDate>
-		<guid isPermaLink="false">http://tranlyhai.github.io/helloword/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://tranlyhai.github.io/helloword/?p=1#comment-1</guid>
 
 					<description><![CDATA[Xin chào, đây là một bình luận
 Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.

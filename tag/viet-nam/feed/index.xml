@@ -10,9 +10,9 @@
 <channel>
 	<title>Việt Nam &#8211; My WordPress</title>
 	<atom:link href="http://localhost/myproject/wordpress/tag/viet-nam/feed/" rel="self" type="application/rss+xml" />
-	<link>http://tranlyhai.github.io/helloword</link>
+	<link>https://tranlyhai.github.io/helloword</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Mon, 07 Jun 2021 03:31:52 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Jun 2021 04:09:15 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>TOP 10 danh lam thắng cảnh Việt Nam nổi tiếng thế giới</title>
-		<link>http://tranlyhai.github.io/helloword/top-nhung-danh-lam-thang-canh-cua-viet-nam/top-10-danh-lam-thang-canh-viet-nam-noi-tieng-the-gioi/</link>
-					<comments>http://tranlyhai.github.io/helloword/top-nhung-danh-lam-thang-canh-cua-viet-nam/top-10-danh-lam-thang-canh-viet-nam-noi-tieng-the-gioi/#respond</comments>
+		<link>https://tranlyhai.github.io/helloword/top-nhung-danh-lam-thang-canh-cua-viet-nam/top-10-danh-lam-thang-canh-viet-nam-noi-tieng-the-gioi/</link>
+					<comments>https://tranlyhai.github.io/helloword/top-nhung-danh-lam-thang-canh-cua-viet-nam/top-10-danh-lam-thang-canh-viet-nam-noi-tieng-the-gioi/#respond</comments>
 		
 		<dc:creator><![CDATA[Hải Trần]]></dc:creator>
 		<pubDate>Tue, 25 May 2021 03:39:23 +0000</pubDate>
 				<category><![CDATA[danh lam thang canh]]></category>
 		<category><![CDATA[danh lam]]></category>
 		<category><![CDATA[Việt Nam]]></category>
-		<guid isPermaLink="false">http://tranlyhai.github.io/helloword/?p=33</guid>
+		<guid isPermaLink="false">https://tranlyhai.github.io/helloword/?p=33</guid>
 
 					<description><![CDATA[Đất nước Việt Nam đang trở thành một trong những điểm đến hàng đầu thế giới nhờ vẻ đẹp thiên nhiên tuyệt vời. Cảnh đẹp Việt Nam từ Bắc vào Nam có thể nói là vô tận, từ những cánh đồng lúa và ruộng bậc thang xanh tươi ở phía Bắc đến sự nhộn nhịp của đồng bằng sông Cửu Long ở phía Nam. Hãy cùng mình tìm hiểu về các địa danh và danh lam thắng cảnh Việt Nam nổi tiếng thế giới qua bài viết dưới đây nhé!]]></description>
 										<content:encoded><![CDATA[
@@ -45,7 +45,7 @@
 
 
 
-<figure class="wp-block-image size-large is-resized is-style-rounded"><img loading="lazy" src="http://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/ha-long-bay.jpg" alt="Vịnh Hạ Long" class="wp-image-36" width="800" height="1000"/></figure>
+<figure class="wp-block-image size-large is-resized is-style-default"><img loading="lazy" src="https://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/ha-long-bay.jpg" alt="Vịnh Hạ Long" class="wp-image-36" width="800" height="1000"/></figure>
 
 
 
@@ -65,7 +65,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="983" src="http://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/trang-an-ninh-binh.jpg" alt="" class="wp-image-44"/></figure>
+<figure class="wp-block-image size-large is-style-rounded"><img loading="lazy" width="800" height="983" src="https://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/trang-an-ninh-binh.jpg" alt="" class="wp-image-44"/></figure>
 
 
 
@@ -81,7 +81,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="1000" src="http://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/tam-coc-ninh-binh.jpg" alt="" class="wp-image-41"/></figure>
+<figure class="wp-block-image size-large is-style-rounded"><img loading="lazy" width="800" height="1000" src="https://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/tam-coc-ninh-binh.jpg" alt="" class="wp-image-41"/></figure>
 
 
 
@@ -97,7 +97,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="533" src="http://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/thanh-dia-my-son.jpg" alt="" class="wp-image-43"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="533" src="https://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/thanh-dia-my-son.jpg" alt="" class="wp-image-43"/></figure>
 
 
 
@@ -113,7 +113,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="788" src="http://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/sa-pa.jpg" alt="" class="wp-image-40"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="788" src="https://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/sa-pa.jpg" alt="" class="wp-image-40"/></figure>
 
 
 
@@ -133,7 +133,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="476" src="http://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/hoang-su-phi-ha-giang.jpg" alt="" class="wp-image-37"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="476" src="https://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/hoang-su-phi-ha-giang.jpg" alt="" class="wp-image-37"/></figure>
 
 
 
@@ -153,7 +153,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="552" src="http://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/thac-ban-gioc-cao-bang.jpg" alt="" class="wp-image-42"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="552" src="https://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/thac-ban-gioc-cao-bang.jpg" alt="" class="wp-image-42"/></figure>
 
 
 
@@ -169,7 +169,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="445" src="http://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/mai-chau.jpg" alt="" class="wp-image-39"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="445" src="https://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/mai-chau.jpg" alt="" class="wp-image-39"/></figure>
 
 
 
@@ -185,7 +185,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="950" src="http://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/ho-guom.jpg" alt="" class="wp-image-38"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="950" src="https://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/ho-guom.jpg" alt="" class="wp-image-38"/></figure>
 
 
 
@@ -197,7 +197,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="942" src="http://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/den-ngoc-son-1.jpg" alt="" class="wp-image-35"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="942" src="https://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/den-ngoc-son-1.jpg" alt="" class="wp-image-35"/></figure>
 
 
 
@@ -209,7 +209,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="1000" src="http://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/dai-noi-hue.jpg" alt="" class="wp-image-34"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="1000" src="https://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/dai-noi-hue.jpg" alt="" class="wp-image-34"/></figure>
 
 
 
@@ -221,18 +221,18 @@
 
 
 
-<figure class="wp-block-audio"><audio controls src="http://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/ghedep-8D.mp3"></audio><figcaption>nhạc sôi động, nhạc quẩy banh nóc, nhạc hay</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="https://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/ghedep-8D.mp3"></audio><figcaption>nhạc sôi động, nhạc quẩy banh nóc, nhạc hay</figcaption></figure>
 
 
 
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://tranlyhai.github.io/helloword/top-nhung-danh-lam-thang-canh-cua-viet-nam/top-10-danh-lam-thang-canh-viet-nam-noi-tieng-the-gioi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://tranlyhai.github.io/helloword/top-nhung-danh-lam-thang-canh-cua-viet-nam/top-10-danh-lam-thang-canh-viet-nam-noi-tieng-the-gioi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="http://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/ghedep-8D.mp3" length="4304143" type="audio/mpeg" />
-<enclosure url="http://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/ghedep-8D.mp3" length="4304143" type="audio/mpeg" />
+		<enclosure url="https://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/ghedep-8D.mp3" length="4304143" type="audio/mpeg" />
+<enclosure url="https://tranlyhai.github.io/helloword/wp-content/uploads/2021/05/ghedep-8D.mp3" length="4304143" type="audio/mpeg" />
 
 			</item>
 	</channel>
